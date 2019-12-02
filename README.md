@@ -4,5 +4,5 @@ This is the library that allows a protocol.communication between server and clie
 
 Third party dependencies:
 
-fastjson 1.2.x
-google-guava 28.1
+1. fastjson 1.2.x
+2. google-guava 28.1
